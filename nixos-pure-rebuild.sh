@@ -6,7 +6,7 @@ set -u
 showSyntax() {
     cat <<EOF
 Usage: $0 [OPTIONS...] OPERATION
-This script is a thin wrapper around nixos-rebuild, it just adds two
+This script is a thin wrapper around nixos-rebuild, it just adds some
 additional options.
 
 Options:
