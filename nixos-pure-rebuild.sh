@@ -10,7 +10,7 @@ This script is a thin wrapper around nixos-rebuild, it just adds some
 additional options.
 
 Options:
-  --nixpkgs-url <PATH>
+  --nixpkgs-url <URL>
   --nixpkgs-sha256 <SHA256>
   --nixos-config <CONFIG>
 
